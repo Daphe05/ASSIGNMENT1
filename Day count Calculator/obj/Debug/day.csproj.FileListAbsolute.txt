@@ -1,0 +1,10 @@
+C:\Users\Joel\source\repos\day\day\bin\Debug\day.exe.config
+C:\Users\Joel\source\repos\day\day\bin\Debug\day.exe
+C:\Users\Joel\source\repos\day\day\bin\Debug\day.pdb
+C:\Users\Joel\source\repos\day\day\obj\Debug\day.csprojAssemblyReference.cache
+C:\Users\Joel\source\repos\day\day\obj\Debug\day.Form1.resources
+C:\Users\Joel\source\repos\day\day\obj\Debug\day.Properties.Resources.resources
+C:\Users\Joel\source\repos\day\day\obj\Debug\day.csproj.GenerateResource.cache
+C:\Users\Joel\source\repos\day\day\obj\Debug\day.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\day\day\obj\Debug\day.exe
+C:\Users\Joel\source\repos\day\day\obj\Debug\day.pdb
